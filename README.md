@@ -1,2 +1,2 @@
-# image-bg-removal
-This project: Remove Background of image and download image
+# image-Background-removal
+This project: Remove Background of image and download image it
